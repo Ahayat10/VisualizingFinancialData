@@ -17,8 +17,7 @@ The Financial Statement Analyzer is a Python script designed for analyzing and v
    ```bash
    git clone https://github.com/Ahayat10/VisualizingFinancialData.git
 2.  **Navigate to the Project Directory:**:
-   ```bash
-   cd VisualizingFinancialData
+   ```cd VisualizingFinancialData```
 3.  **Run The Script:**:
    ```bash
    python script.py
