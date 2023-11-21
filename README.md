@@ -11,6 +11,12 @@ The Financial Statement Analyzer is a Python script designed for analyzing and v
 - **Monthly Bills and Payments**: Visualize monthly bills and payments trends using a bar chart, offering a comprehensive view of financial trends.
 - **Balance Evolution Over Time**: Track the evolution of the balance over time with a line graph, helping users understand their financial history.
 
+## Dependencies:
+
+- **plotly:** Used for generating interactive plots.
+- **pandas:** Provides data structures for efficient data manipulation.
+- **Other:** standard Python libraries.
+
 ## How to Use:
 
 1. **Clone the Repository**:
@@ -21,8 +27,5 @@ The Financial Statement Analyzer is a Python script designed for analyzing and v
 3. **Update the Path on Line 278 in refactored.py**:
 4.  **Run The Script**:
    ```python script.py```
-## Dependencies:
-- **plotly:** Used for generating interactive plots.
-- **pandas:** Provides data structures for efficient data manipulation.
-- **Other:** standard Python libraries.
+
 
