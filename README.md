@@ -25,7 +25,7 @@ The Financial Statement Analyzer is a Python script designed for analyzing and v
 2.  **Navigate to the Project Directory**:
    ```cd VisualizingFinancialData```
 3. **Update the Path on Line 278 in refactored.py to your path to the file **:
-   ```transactions = readTransactions("/your/path")```
+   ```transactions = readTransactions("/your/path/M.csv")```
 4.  **Run The Script**:
    ```python script.py```
 
