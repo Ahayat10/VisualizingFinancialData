@@ -275,7 +275,7 @@ def readTransactions(csv_file):
     return TransactionsManager(data)
 
 
-transactions = readTransactions("/Users/amnahayat/Desktop/ENEB355/FInalProject/M.csv")
+transactions = readTransactions("/your/path/M.csv")
 
 
 while True:
