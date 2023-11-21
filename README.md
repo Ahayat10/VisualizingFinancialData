@@ -21,5 +21,8 @@ The Financial Statement Analyzer is a Python script designed for analyzing and v
 3. **Update the Path on Line 278 in refactored.py**:
 4.  **Run The Script**:
    ```python script.py```
-
+## Dependencies:
+- **plotly:** Used for generating interactive plots.
+- **pandas:** Provides data structures for efficient data manipulation.
+- **Other:** standard Python libraries.
 
